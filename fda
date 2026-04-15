@@ -1,1 +1,20 @@
+# Registros FDA — Smart Dent
 
+**FDA Establishment Number:** 3027526455  
+**Status:** Ativo (2026)  
+**Verificação:** https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm?start_search=1&RegistrationNumber=3027526455
+
+## UDIs HIBCC — GUDID
+
+| Produto | UDI HIBCC | Classe |
+|---|---|---|
+| Smart Print Modelo L'Aqua | D14307560147451530 | EBH |
+| Smart Print Precision Model | D14307560147453680 | EBH |
+| Smart Print Try-In Calcinável | D14307560147456890 | EBH |
+| Smart Print Bio Clear Guide | D14307560147454670 | NDP |
+| ioConnect TruAbutment | (NDP) | NDP |
+| exoplan Exocad | (LLZ) | LLZ |
+| Scanner Medit i600/i700 | (NOF) | NOF |
+
+**DUNS Smart Dent:** 899849957  
+**GUDID:** https://accessgudid.nlm.nih.gov
