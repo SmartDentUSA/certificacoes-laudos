@@ -1,0 +1,53 @@
+{
+  "title": "Smart Dent — Certificações, Laudos e Registros Regulatórios",
+  "description": "Repositório oficial de documentos técnicos e regulatórios da Smart Dent (MMTech Projetos Tecnológicos, CNPJ 10.736.894/0001-36). Inclui registros ANVISA vigentes, registros FDA, laudos ISO 10993, credenciais dos fundadores e documentação da entidade norte-americana MMTech North America LLC.",
+  "creators": [
+    {
+      "name": "Del Guerra, Marcelo",
+      "affiliation": "Smart Dent / MMTech Projetos Tecnológicos",
+      "orcid": "0000-0003-1537-3742"
+    },
+    {
+      "name": "Cestari, Marcelo",
+      "affiliation": "Smart Dent / MMTech Projetos Tecnológicos",
+      "orcid": "0000-0002-1985-209X"
+    }
+  ],
+  "keywords": [
+    "odontologia digital",
+    "resinas 3D",
+    "ANVISA",
+    "FDA",
+    "biocompatibilidade",
+    "ISO 10993",
+    "impressão 3D odontológica",
+    "Smart Dent",
+    "CAD/CAM",
+    "prótese dentária",
+    "guia cirúrgico"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "language": "por",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.smartdent.com.br",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q138636902",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://parametros.smartdent.com.br/base-conhecimento",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}
